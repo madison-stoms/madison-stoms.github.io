@@ -1,0 +1,48 @@
+---
+title: ''
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<br>
+
+### Publications
+
+**M Stoms**, L Houghton, M Terry, K Ulanday, J Herbstman, J Goldsmith (2023) Estimation of Menstrual Cycle Day using Cross-Sectional Biomarker Measurements. *Under review*
+
+**M Stoms**, B Sauerbrei, J Goldsmith (2023) Simultaneous Clustering and Decomposition of Functional Data Across Repeated Trials. *In progress.*
+
+**M Stoms**, A Szucs, H Galfalvy, (2023) Protective Effects of Social Support on Suicidal Ideation in Late-Life Adults. *In progress.*
+
+M Finkel, **M Stoms**,  J Goldsmith, S Rifas-Shiman, E Oken, M Ordway, A Shechter, J Woo Baidal (2024) Understanding the Longitudinal Relationship Between Early Life Sleep Patterns and Child Cognitive Development. *In progress.*
+
+V Menon, **M Stoms**, C Fowler, G Garcia, Y Wei (2024) Social and Economic Factors Affecting Burden of Treatment *In progress.*
+
+<br>
+
+### Presentations
+
+**“Estimation of Menstrual Cycle Day using Cross-Sectional Biomarker Measurements”** [Invited Session] Columbia Biostatistics Annual Research Symposium (CBARS), New York, NY (September, 2023)
+
+**“Estimation of Menstrual Cycle Day using Cross-Sectional Biomarker Measurements”** [Contributed Session] Joint Statistical Meeting (JSM), Toronto, ON (August, 2023)
+
+**“Estimation of Menstrual Cycle Day using Cross-Sectional Biomarker Measurements”** [Invited Session] Functional Data Analysis Working Group (FDAWG), New York, NY (April, 2023)
+
+**“Simultaneous Clustering and Decomposition of Neural Activation Data across Repeated Trials”** [Contributed Session] Eastern North America Region (ENAR), Nashville, TN (March, 2023)
+
+**“Simultaneous Clustering and Decomposition of Neural Activation Data across Repeated Trials”** [Workshop] Graduate Student Research Seminar, New York, NY (February, 2023)
+
+**“Simultaneous Clustering and Decomposition of Neural Activation Data across Repeated Trials”** [Poster Presentation] Data Science Data, New York, NY (April, 2022)
+
+**“Leveraging Real-World Evidence to Increase Diversity of Populations in Clinical Trials”** [Invited Session] Society of Clinical Trials (SCT), San Diego, CA (May, 2022)
+
+**“Simultaneous Clustering and Decomposition of Neural Activation Data across Repeated Trials”** [Invited Session] Colorado Functional Data Analysis Working Group (FDAWG), Online (December, 2022)
+
+**“Visualizing Person-Specific Trajectories within Dynamic Treatment Regimens using Data from Sequential Multiple Assignment Randomized Trials”**  [Poster Presentation] Michigan Institute for Data Science Student Symposium, Ann Arbor, MI (October, 2018)
+
+**“The Utility of Concordant Trend Analysis in Phase 2 Studies in Congenital and Childhood Onset Myotonic Dystrophy Type 1: A Case Example”**  [Poster Presentation] Muscular Dystrophy Foundation Annual Conference, Nashville, TN (September, 2018)
+

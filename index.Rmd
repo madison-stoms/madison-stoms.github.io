@@ -1,0 +1,42 @@
+---
+title: "Madison Stoms"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**PhD Candidate** Columbia University's Mailman School of Public Health
+
+<br>
+
+<center>
+![](./figs/shot.jpg){width=50%}
+
+
+<br>
+
+I am primarily interested in developing methods related to functional data analysis with applications to women's health and skilled movement. The focus of my dissertation work has aimed to estimate a women's menstrual cycle day using cross-sectional biomarker measurements obtained from urine samples. These estimates can be used to account for sources of variation attributable to the menstrual cycle in clinical studies. Additionally, I have developed a method to simultaneous cluster and decompose functional data across repeated trials. This work has been applied to neuroscience research in order to understand the impacts of strokes on skill movement. I have also worked on projects relating to sequential multiple assignment clinical trials (SMARTs), identifying protective factors against suicidal ideation in late-life adults, and investigating the burden of heart failure treatment in low income communities. 
+
+
+I received a BA in Statistics and Mathematics from University of Michigan in 2019 and expect to receive a PhD in Biostatistics from Columbia University in 2024. My dissertation is advised by [Jeff Goldsmith](https://jeffgoldsmith.com/). In 2020 I founded a Statistics in the Community ([STATCOM](https://cu-biostats-statcom.github.io/)) chapter at Columbia which provides free statistical consulting to non-profit and government organizations. I am an active member in Columbia's functional data analysis working group (FDAWG) and 
+
+<br>
+
+</center>
+
+
+## Contact Information
+
+Madison Stoms
+
+[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)
+
+[Columbia Mailman School of Public Health](https://www.publichealth.columbia.edu/)
+
+722 West 168th Street
+
+New York, New York 10032
+
+**Email**: ms5975@cumc.columbia.edu
